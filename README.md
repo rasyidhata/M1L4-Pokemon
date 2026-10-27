@@ -1,7 +1,6 @@
 # M1L4-Pokemon
 
-> Proyek sederhana untuk menjelajahi dan mempelajari data Pokémon.
-
+> Bot Pokemon yang seru dan asik yang dapat dimainkan di discord server kalian!
 ---
 
 ## 🚀 Tentang Proyek
